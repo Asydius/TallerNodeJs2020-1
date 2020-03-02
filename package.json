@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Asydius/TallerNodeJs2020-1/issues"
   },
-  "homepage": "https://github.com/Asydius/TallerNodeJs2020-1#readme"
+  "homepage": "https://github.com/Asydius/TallerNodeJs2020-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
