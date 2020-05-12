@@ -2,7 +2,7 @@ const morgan = require('morgan');
 const express = require('express');
 const app = express();
 const pokemon = require('./routes/pokemon')
-const user = requiere('./routes/user')
+const user = require('./routes/user')
 
 app.use(morgan('dev'));
 app.use(express.json());
